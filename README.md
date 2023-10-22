@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avnee</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avnee09&label=Profile%20views&color=0e75b6&style=flat" alt="avnee09" /> </p>
 
-<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codingfun.io%2F&psig=AOvVaw1LQl7YzYHrdi176uromNGP&ust=1698085897010000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiFpoelioIDFQAAAAAdAAAAABAE](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif)">
 
 - 🔭 I’m currently working on **EIP4337**
 
